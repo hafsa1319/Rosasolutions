@@ -51,7 +51,7 @@
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
     "chatbutton": {
-      "phone": "+12345678901",
+      "phone": "+12498000450",
       "message": "",
       "size": "65px",
       "backgroundColor": "#e5ddd5",
@@ -67,7 +67,7 @@
       "enabled": true
     },
     "favicon": "@PROJECT_PATH@/assets/images/rosa.svg",
-    "mbrsiteDomain": "rudc4oquax",
+    "mbrsiteDomain": "h1crxwf51d",
     "cssOptimize": true,
     "lazyLoad": true,
     "robotsSwitcher": false,
