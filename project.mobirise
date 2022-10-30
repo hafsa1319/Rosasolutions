@@ -70,7 +70,7 @@
       "enabled": true
     },
     "favicon": "@PROJECT_PATH@/assets/images/favicon-89x98.png",
-    "mbrsiteDomain": "gw7jxkepfr",
+    "mbrsiteDomain": "aqmoizgm3a",
     "cssOptimize": true,
     "lazyLoad": true,
     "robotsSwitcher": false,
@@ -81,7 +81,7 @@
       "colorText": "#a7a7a7",
       "colorLink": "#000000",
       "underlineLink": false,
-      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+      "text": "By continuing you agree to our <a href='https://rosasolutions.ca/privacy-policy#article04-e'>Privacy Policy</a>."
     },
     "pwa-switcher": true,
     "PWA": {
@@ -102,7 +102,7 @@
       "underlineLink": true,
       "opacity": "99",
       "opacityOverlay": "80",
-      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "text": "We use cookies to give you the best experience. Read our <a href='https://rosasolutions.ca/privacy-policy#article04-e'>cookie policy</a>.",
       "textButton": "Agree"
     }
   },
