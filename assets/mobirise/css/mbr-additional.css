@@ -1241,7 +1241,7 @@ a {
 .cid-rUTuXK8G54 {
   padding-top: 270px;
   padding-bottom: 270px;
-  background-image: url("../../../assets/images/attorney1.jpg");
+  background-image: url("../../../assets/images/rasim-bey-mi-2000x1331.jpg");
 }
 .cid-rUTuXK8G54 .mbr-section-title {
   font-family: 'Quicksand', sans-serif;
@@ -1256,26 +1256,6 @@ a {
   margin-bottom: 1rem;
   font-family: 'Quicksand', sans-serif;
 }
-.cid-rUTuXK8G54 .container::before {
-  content: "";
-  display: block;
-  height: 2px;
-  position: absolute;
-  bottom: -35px;
-  width: 75px;
-  left: 16px;
-  background-color: #b1976b;
-}
-.cid-rUTuXK8G54 .container::after {
-  content: "";
-  display: block;
-  height: 2px;
-  position: absolute;
-  width: 25px;
-  left: 96px;
-  background-color: #aca7ba;
-  bottom: -35px;
-}
 @media (max-width: 992px) {
   .cid-rUTuXK8G54 .promo-primary-description {
     padding-right: 2rem;
@@ -1284,7 +1264,7 @@ a {
 @media (min-width: 1200px) {
   .cid-rUTuXK8G54 .bottom-title {
     margin-right: 9rem;
-    font-size: 150px;
+    font-size: 30px;
   }
 }
 .cid-rUTuXK8G54 .bottom-title {
